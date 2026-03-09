@@ -1,7 +1,7 @@
 ## Waddup folks 😏
 
 <p>
-  <img src="https://api.boot.dev/v1/users/public/d0a8db30-6514-484a-bf90-7fc3920297c5/thumbnail" >
+  <img style="width: 400px" src="https://api.boot.dev/v1/users/public/d0a8db30-6514-484a-bf90-7fc3920297c5/thumbnail" >
 </p>
 <!--
 **Gonflik/Gonflik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
